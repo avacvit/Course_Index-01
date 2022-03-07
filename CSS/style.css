@@ -1,0 +1,20 @@
+p, h2 {
+        background: antiquewhite;
+        font-size: 30px;
+      }
+
+      h1 {
+        text-transform: uppercase;
+        font-size: 80px;
+        color:#2F3D3D;
+      }
+
+      h3{
+        font-size: 60px;
+        color: #2F3D3D;
+
+      }
+
+      .fp{
+        font-size: 30px;
+      }
